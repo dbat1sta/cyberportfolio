@@ -4,7 +4,7 @@ I am a current graduate level computer sceince student with a profound interst i
 
 # Objective
 
-My computer science journey had caused me to develop a passion for cybersecurity and the technology that defends digital systems. I am eager to begin my career in the field, specifically aiming to join a team as a Security Operation Center Tier 1 Analyst. Currently building projects and working with different technologies to enhance overall understanding of security principles and to prepare for professional application.
+My computer science journey had caused me to develop a passion for cybersecurity and the technology that defends digital systems. I am eager to begin my career in the field, specifically aiming to join a team as a information security specialist. Currently building projects and working with different technologies to enhance overall understanding of security principles and to prepare for professional application.
 
 # Projects
 
