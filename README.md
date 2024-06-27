@@ -1,6 +1,6 @@
 # Hello, my name's David!
 [LinkedIn](https://www.linkedin.com/in/david-batista-071464192/)
-I'm a current graduate level computer science student with a profound interest in technology and a dedication to solving complex problems.
+I'm a current graduate level computer science student with a profound interest in technology and a passion for solving complex problems.
 
 # Objective
 
