@@ -13,6 +13,6 @@ With this portfolio I aim to demonstrate my passion and expertise by showcasing 
 
 AES Encryption Analysis: https://github.com/dbat1sta/AES-encryption-test-
 
-SRP (Secure Remote Password) Protocol Implemnetation: https://github.com/dbat1sta/SRP-implementation
+SRP (Secure Remote Password) Protocol Implementation: https://github.com/dbat1sta/SRP-implementation
 
-Keylogger: https://github.com/dbat1sta/keylogger-project
+Test Keylogger Software: https://github.com/dbat1sta/keylogger-project
