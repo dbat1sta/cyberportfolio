@@ -1,4 +1,4 @@
-# Hello, I'm David
+# Hello, my name's David!
 [LinkedIn](https://www.linkedin.com/in/david-batista-071464192/)
 I am a current graduate level computer sceince student with a profound interst in technology and a dedication to solving complex problems.
 
