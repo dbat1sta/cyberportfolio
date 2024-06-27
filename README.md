@@ -4,7 +4,7 @@ I am a current graduate level computer sceince student with a profound interst i
 
 # Objective
 
-My computer science journey had caused me to develop a passion for cybersecurity and the complex technologies used to defend systems. I am eager to kickstart my career in the field, specifically aiming to join a team as a information security specialist. 
+My computer science journey had caused me to develop a passion for cybersecurity and the complex technologies used to defend systems. I am eager to kickstart my career in the field, specifically aiming to join a team as an information security analyst. 
 
 With this portfolio I aim to demonstrate my passion and expertise by showcasing personal projects and labs, I've developed to enhance my overall understanding of security principles, and to prepare for professional application.
 
