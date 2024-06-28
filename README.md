@@ -11,6 +11,12 @@ With this portfolio I aim to demonstrate my passion and expertise by showcasing 
 
 # Projects
 
+Detection and Monitoring Lab
+
+Information Security Policy Starter Kit 
+
+"From Passion to Proficiency" - My Cybersecurity Journey https://medium.com/@dbat1sta
+
 AES Encryption Analysis: https://github.com/dbat1sta/AES-encryption-test-
 
 SRP (Secure Remote Password) Protocol Implementation: https://github.com/dbat1sta/SRP-implementation
