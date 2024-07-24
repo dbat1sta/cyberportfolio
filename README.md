@@ -15,6 +15,10 @@ Detection and Monitoring Lab
 
 Information Security Policy Starter Kit 
 
+ISA Emulator (RISC V)
+
+Microsoft Azure Tenant Configuration
+
 "From Passion to Proficiency" - My Cybersecurity Journey https://medium.com/@dbat1sta
 
 AES Encryption Analysis: https://github.com/dbat1sta/AES-encryption-test-
