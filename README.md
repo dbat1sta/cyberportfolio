@@ -11,7 +11,7 @@ With this portfolio I aim to demonstrate my passion and expertise by showcasing 
 
 # Projects
 
-Detection and Monitoring Lab
+Detection and Monitoring Lab https://github.com/dbat1sta/Homelab
 
 Information Security Policy Starter Kit 
 
